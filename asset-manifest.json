@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/KBC_Quiz_App_ReactJS/static/css/main.8a60ddcf.css",
+    "main.js": "/KBC_Quiz_App_ReactJS/static/js/main.eb0f72e3.js",
+    "static/js/845.42fc3715.chunk.js": "/KBC_Quiz_App_ReactJS/static/js/845.42fc3715.chunk.js",
+    "static/media/KBC_BG.jpg": "/KBC_Quiz_App_ReactJS/static/media/KBC_BG.c7704bf0b06d3cf7b12c.jpg",
+    "static/media/Kbc Theme.mp3": "/KBC_Quiz_App_ReactJS/static/media/Kbc Theme.954d31d9f9568f62d348.mp3",
+    "static/media/CorrectAnswer.mp3": "/KBC_Quiz_App_ReactJS/static/media/CorrectAnswer.a3d46debc8f7013fee44.mp3",
+    "static/media/Wrong_Answer.mp3": "/KBC_Quiz_App_ReactJS/static/media/Wrong_Answer.f2060c9f48a9415fddb0.mp3",
+    "index.html": "/KBC_Quiz_App_ReactJS/index.html",
+    "main.8a60ddcf.css.map": "/KBC_Quiz_App_ReactJS/static/css/main.8a60ddcf.css.map",
+    "main.eb0f72e3.js.map": "/KBC_Quiz_App_ReactJS/static/js/main.eb0f72e3.js.map",
+    "845.42fc3715.chunk.js.map": "/KBC_Quiz_App_ReactJS/static/js/845.42fc3715.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a60ddcf.css",
+    "static/js/main.eb0f72e3.js"
+  ]
+}
